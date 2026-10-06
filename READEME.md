@@ -1,6 +1,4 @@
-devops@anlinh:~/ss06/ex04$ cd ~/ss06/ex04
 
-cat > README.md <<'ENDREADME'
 # Bài 4 - Quản lý tiến trình nền với nohup và tín hiệu Kill
 
 ## 1. Khởi chạy tiến trình
